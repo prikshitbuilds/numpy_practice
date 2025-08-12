@@ -45,6 +45,7 @@ print(slicing_arr[::2]) # 1 3 5
 
 print(slicing_arr[::-1]) # reverse
 print(slicing_arr[-1:]) # last leem
+print(slicing_arr[:-1:])
 
 
 # 2d array slicing

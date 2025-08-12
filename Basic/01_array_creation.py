@@ -7,3 +7,4 @@ print(a.shape) #(3,)
 print(b.shape) # (3,3) -> 3 element at 3rd dimentoins
 print(c.shape)
 
+tensor = np.array([[[1,2,3],[4,5,6],[7,8,9]]])
